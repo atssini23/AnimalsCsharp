@@ -1,0 +1,8 @@
+/Applications/C#/Animals/bin/Debug/netcoreapp1.1/Animals.deps.json
+/Applications/C#/Animals/bin/Debug/netcoreapp1.1/Animals.runtimeconfig.json
+/Applications/C#/Animals/bin/Debug/netcoreapp1.1/Animals.runtimeconfig.dev.json
+/Applications/C#/Animals/bin/Debug/netcoreapp1.1/Animals.dll
+/Applications/C#/Animals/bin/Debug/netcoreapp1.1/Animals.pdb
+/Applications/C#/Animals/obj/Debug/netcoreapp1.1/Animals.AssemblyInfo.cs
+/Applications/C#/Animals/obj/Debug/netcoreapp1.1/Animals.dll
+/Applications/C#/Animals/obj/Debug/netcoreapp1.1/Animals.pdb
